@@ -1,4 +1,4 @@
-#SRT Offset
+# SRT Offset
 
 A small, quickly done, helper script i use to shift timecodes in srt files.
 
